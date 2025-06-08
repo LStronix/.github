@@ -1,3 +1,3 @@
 # LSTronix 
 
-Collaborations Space on Company Projects
+Collaboration-Space on Company Projects
